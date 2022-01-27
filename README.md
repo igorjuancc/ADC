@@ -1,5 +1,5 @@
 # Agenda Digital de Compromissos
-Implementação de exercício prático de um sistema de gerenciamento de compromissos, denominado “Agenda Digital de Compromissos” (ADC). 
+Implementação de exercício prático de um sistema de gerenciamento de compromissos, denominado “Agenda Digital de Compromissos” - (ADC). 
 
 ## Pré-requisitos
 
@@ -43,11 +43,11 @@ O projeto pode ser executado também a partir de uma IDE de preferência do usu�
 
 O projeto ADC foi desenvolvido como requisito de avaliação parcial da disciplina TI108 - Estrutura de Dados, do curso de Tecnólogia em Análise de Desenvolvimento de Sistemas, do Setor de Educação Profissional e Tecnológica, da Universidade Federal do Paraná, sob orientação do Prof. Me. Andreia de Jesus. 
 
-#### Documentação
+### Documentação
 
 A descrição e os detalhes da atividade podem ser encontrados no seguinte [repositório](https://github.com/igorjuancc/documentacao/tree/main/ADC).
 
-#### Referência
+### Referência
 
 PORTILLO, Rodrigo. **Rodando sua Primeira Aplicação C no Windows ou Linux**. Velho Bit, 2017. Disponível em <https://velhobit.com.br/programacao/rodando-sua-primeira-aplicacao-c-no-windows-ou-linux.html>.  Acesso: 27 de jan. de 2022.    
 
