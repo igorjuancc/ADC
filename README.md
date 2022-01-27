@@ -1,5 +1,6 @@
 # Agenda Digital de Compromissos
 Implementação de exercício prático de um sistema de gerenciamento de compromissos, denominado “Agenda Digital de Compromissos” - (ADC). 
+Atividade desenvolvída para aplicação de conceitos de estrutura de dados do tipo lista lineares encadeadas.
 
 ## Pré-requisitos
 
