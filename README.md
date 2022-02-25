@@ -42,7 +42,7 @@ O projeto pode ser executado também a partir de uma IDE de preferência do usu�
 
 ## Sobre
 
-O projeto ADC foi desenvolvido como requisito de avaliação parcial da disciplina TI108 - Estrutura de Dados, do curso de Tecnólogia em Análise de Desenvolvimento de Sistemas, do Setor de Educação Profissional e Tecnológica, da Universidade Federal do Paraná, sob orientação do Prof. Me. Andreia de Jesus. 
+O projeto ADC foi desenvolvido como requisito de avaliação parcial da disciplina TI108 - Estrutura de Dados, do curso de Tecnólogia em Análise de Desenvolvimento de Sistemas, do Setor de Educação Profissional e Tecnológica, da Universidade Federal do Paraná, sob orientação da Prof. Me. Andreia de Jesus. 
 
 ## Documentação
 
